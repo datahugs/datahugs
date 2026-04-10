@@ -1,10 +1,10 @@
-# Привет! Я Галина
+## 👋 Привет, я Галя
 
 Аналитик данных / продуктовый аналитик с 3+ годами опыта. SQL, Python, BI.
 
 Специализируюсь на retention, воронках конверсии, LTV и поиске точек роста продукта.
 
-## Проекты
+### Проекты
 
 | Проект | Описание | Стек |
 |--------|----------|------|
@@ -12,7 +12,7 @@
 | [edtech-conversion-funnel](https://github.com/datahugs/edtech-conversion-funnel) | Анализ воронки «визит → регистрация» образовательной платформы по платформам (web/iOS/Android) | Python, pandas, matplotlib |
 | [retail-sales-q4-analysis](https://github.com/datahugs/retail-sales-q4-analysis) | Квартальный дайджест: сегментация клиентов, эффект промо-акции, эффективность продавцов | SQL |
 
-## Контакты
+### Контакты
 
 - Telegram: [@bykova_g](https://t.me/bykova_g)
 - LinkedIn: [in/datahugs](https://www.linkedin.com/in/datahugs)
